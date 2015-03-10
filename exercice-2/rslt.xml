@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+   <head>
+      <title/>
+   </head>
+   <body>
+      <table border="1">
+         <tr>
+            <td> Maisons </td>
+            <td> Surface(m2) </td>
+         </tr>
+         <tr>
+            <td>maison 1</td>
+            <td>125</td>
+         </tr>
+         <tr>
+            <td>maison 2</td>
+            <td>28</td>
+         </tr>
+         <tr>
+            <td>maison 3</td>
+            <td>57.5</td>
+         </tr>
+      </table>
+   </body>
+</html>
